@@ -1,0 +1,21 @@
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.exe.config
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.pdb
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.exe.config
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.exe
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.pdb
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.exe
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.pdb
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.csprojResolveAssemblyReference.cache
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.Form1.resources
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.Properties.Resources.resources
+F:\учеба\(лабы)МРО\Laba 3\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.csproj.GenerateResource.Cache
+F:\учеба\(лабы)МРО\Laba 3_1\MRO_Lab3\MRO_Lab3\bin\Debug\MRO_Lab3.exe.config
+F:\учеба\(лабы)МРО\Laba 3_1\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.exe
+F:\учеба\(лабы)МРО\Laba 3_1\MRO_Lab3\MRO_Lab3\obj\Debug\MRO_Lab3.pdb
